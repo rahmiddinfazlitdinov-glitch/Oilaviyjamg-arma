@@ -1,1 +1,1 @@
-# Oilaviyjamg-arma
+# Oilaviyjamgarma
