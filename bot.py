@@ -16,7 +16,7 @@ import config
 
 AMOUNT = 500_000
 REMINDER_DAYS = [10, 5, 3, 1, 0]
-DB_PATH = "fund.db"
+DB_PATH = "/data/fund.db"
 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
